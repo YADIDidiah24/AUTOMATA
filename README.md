@@ -1,5 +1,5 @@
 # AUTOMATA
 
-first one to check if all the letters are lower letters
+one python file  to check if all the letters are lower letters
 
-second file to check if input string ends with man
+other  file to check if input string ends with man
